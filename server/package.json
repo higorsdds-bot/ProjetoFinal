@@ -1,0 +1,19 @@
+{
+"name": "biblioteca-dds-27",
+"version": "1.0.0",
+"description": "Sistema de biblioteca top",
+"main": "server.js",
+"scripts": {
+"test": "server"
+},
+"keywords": [
+"livros",
+"biblioteca",
+"dds-27",
+"senai"
+],
+
+"author": "ZeniF",
+"license": "ISC",
+"type": "commonjs"
+}
